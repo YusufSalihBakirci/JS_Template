@@ -250,8 +250,8 @@ var startDiv = document.createElement("DIV");
   
 var startAirplane = document.createElement("IMG");
   startAirplane.id="vl-startAirplane";
-  startAirplane.src="https://cdn.discordapp.com/attachments/807578340050993155/1045343063645618196/Geyikler.gif";
-  startAirplane.style.width="400px";
+  startAirplane.src="https://cdn.discordapp.com/attachments/1019147319477805073/1053293648109908038/unnamed.png";
+  startAirplane.style.width="200px";
   startAirplane.style.maxWidth="none";
   startDiv.appendChild(startAirplane);
 
